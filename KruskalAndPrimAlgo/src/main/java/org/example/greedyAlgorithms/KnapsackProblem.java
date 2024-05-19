@@ -1,6 +1,7 @@
-package org.example;
+package org.example.greedyAlgorithms;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.Comparator;
 
 /**
  * Task text:

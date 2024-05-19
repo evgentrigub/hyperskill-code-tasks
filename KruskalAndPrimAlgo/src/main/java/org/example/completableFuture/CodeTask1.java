@@ -1,6 +1,7 @@
-package org.example;
+package org.example.completableFuture;
 
-import java.util.concurrent.*;
+import java.util.concurrent.CompletableFuture;
+import java.util.concurrent.ExecutionException;
 
 public class CodeTask1 {
     public static void runTask1() throws ExecutionException, InterruptedException {

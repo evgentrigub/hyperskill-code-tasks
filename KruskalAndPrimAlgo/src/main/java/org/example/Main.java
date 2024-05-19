@@ -1,6 +1,6 @@
 package org.example;
 
-import java.util.*;
+import org.example.kruskalAndPrimAlgo.PrimEasyAlgo;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,6 +1,4 @@
-package org.example;
-
-import java.util.Scanner;
+package org.example.kruskalAndPrimAlgo;
 
 /**
  * [TITLE] Roads in a city [/TITLE]
